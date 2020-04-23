@@ -6,7 +6,7 @@ For this challenge we will be using. Old employee files in order to do a researc
 ## Data Engineering
 Create a table schema for each of the six CSV files. 
 
-Have each CSV file into the corresponding SQL table.
+Have each CSV file into the corresponding SQL tables.
 
 
 ## Data Analysis
